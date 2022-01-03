@@ -1,0 +1,36 @@
+Animal
+--------
++ name: string
++ age: integer
++ species: string
+--------
++ move()
++ eat()
++ drink()
+-------------------------------------------------------------------------
+Book
+--------
++ title: string
++ author: string
++ publisher: string
++ published: date
++ pages: integer
++ language: string
+--------
++ open()
++ close()
+-------------------------------------------------------------------------
+Vehicle
+--------
++ manufacturer: string
++ model: string
++ year: integer
++ color: string
+--------
++ startEngine()
++ accelerate()
++ brake()
++ shiftUp()
++ shiftDown()
++ turnLeft()
++ turnRight()
